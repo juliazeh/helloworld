@@ -1,7 +1,7 @@
 # helloworld
 This is the helloworld package for assignment 2.3
 
-##Installation
+## Installation
 Clone the repo and use pip to install it.
 ```
 git clone https://github.com/juliazeh/helloworld.git
@@ -9,7 +9,7 @@ cd helloworld/
 pip install .
 ```
 
-##CLI Usage
+## CLI Usage
 To use the executable helloworld command line program:
 ```
 $ helloworld -h
@@ -22,7 +22,7 @@ optional arguments:
   --age AGE             convert and return inputted age to age in dog years
 ```
 
-##API Usage
+## API Usage
 To use the hellowrold Python API:
 ```
 import helloworld
